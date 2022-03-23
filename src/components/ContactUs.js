@@ -8,6 +8,8 @@ export default class ContactUs extends Component {
             <div className="ten columns">
               <p className="lead">
               Entre em contato pelas redes socias!!!
+              <br/>
+              Rafael Patricio - 2022
               </p>
             </div>
           </div>
